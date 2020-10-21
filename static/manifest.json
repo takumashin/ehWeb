@@ -1,0 +1,15 @@
+{
+  "short_name": "EhentaiView",
+  "name": "EhentaiView",
+  "icons": [
+    {
+      "src": "/static/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
